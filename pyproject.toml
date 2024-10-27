@@ -1,0 +1,13 @@
+[project]
+name = "ttk4123-kybernetiske-metoder-2024-host"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.9.2",
+    "nbconvert>=7.16.4",
+    "scipy>=1.14.1",
+    "sympy>=1.13.3",
+]
